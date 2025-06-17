@@ -1,0 +1,20 @@
+{
+  "name": "flagtag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/hi.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/hi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vercel/node": "^5.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
